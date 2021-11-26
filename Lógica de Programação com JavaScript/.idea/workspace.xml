@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d4bc683-fa79-41d1-8aae-6f04868353ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Exemplos/For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex17FahreinheitParaCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex18MediaPonderada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex19CelsiusFahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex20FahrenheitCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex21VolumeLata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex22QtdLitros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex23Prestacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex24TrocaAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex25AdicaoMultipicacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex26VolumeCaixa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex27QuadradoDiferenca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex28DolarReal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex29RealDolar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex30SomaQuadrados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex31QuadradoDaSoma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex32MaiorQue10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex33PositivoOuNegativo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex34CustoMacas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex35MediaAritmetica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex36IdadeParaVotar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex37MaiorNumero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex38OrdemCrescente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/Ex39JogoDeXadrez.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lógica de Programação com Java/ObamaCare/src/com/company/ex016.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21QEHt3Cpprh7QKEgg7BVcE5vEz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lógica de Programação com Java" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4bc683-fa79-41d1-8aae-6f04868353ae" name="Changes" comment="" />
+      <created>1637864827263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637864827263</updated>
+    </task>
+    <servers />
+  </component>
+</project>

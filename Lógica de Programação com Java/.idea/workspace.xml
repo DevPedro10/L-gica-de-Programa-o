@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7878fd74-863b-4cd0-be01-bf4f521fd896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lógica de Programação com JavaScript/.idea/Lógica de Programação com JavaScript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/ObamaCare.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex009.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex010.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex012.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex013.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex014.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex015.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/exercicio/ex016.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex17FahreinheitParaCelsius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex18MediaPonderada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex19CelsiusFahrenheit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex20FahrenheitCelsius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex21VolumeLata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex22QtdLitros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex23Prestacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex24TrocaAB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex25AdicaoMultipicacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex26VolumeCaixa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex27QuadradoDiferenca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex28DolarReal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex29RealDolar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex30SomaQuadrados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex31QuadradoDaSoma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex32MaiorQue10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex33PositivoOuNegativo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex34CustoMacas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex35MediaAritmetica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex36IdadeParaVotar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex37MaiorNumero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex38OrdemCrescente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/out/production/ObamaCare/listadeexercicios/Ex39JogoDeXadrez.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex17FahreinheitParaCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex18MediaPonderada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex19CelsiusFahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex20FahrenheitCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex21VolumeLata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex22QtdLitros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex23Prestacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex24TrocaAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex25AdicaoMultipicacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex26VolumeCaixa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex27QuadradoDiferenca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex28DolarReal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex29RealDolar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex30SomaQuadrados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex31QuadradoDaSoma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex32MaiorQue10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex33PositivoOuNegativo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex34CustoMacas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex35MediaAritmetica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex36IdadeParaVotar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex37MaiorNumero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex38OrdemCrescente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/Ex39JogoDeXadrez.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObamaCare/src/com/company/ex016.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21QI0xo3e4Qxfxr7W0OQFIidA48" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7878fd74-863b-4cd0-be01-bf4f521fd896" name="Changes" comment="" />
+      <created>1637866664874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637866664874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
